@@ -2,3 +2,6 @@ const a1 = 10
 const a2 = 12
 
 console.log(a1 + a2);
+if (a1 > a2) = {
+console.log(a1);
+} else ("nilai kurang dari 70");
